@@ -1,0 +1,6 @@
+[submodule "QSAR-VEGFR2"]
+	path = QSAR-VEGFR2
+	url = https://github.com/buchijw/QSAR-VEGFR2.git
+[submodule "JTVAE-GA"]
+	path = JTVAE-GA
+	url = https://github.com/buchijw/JTVAE-GA.git
